@@ -21,10 +21,10 @@ You can check out [the Azuro GitHub repositories](https://github.com/Azuro-proto
 
 EMADATA Token Smart Contract Address [0xdb94c55185F0BB562812De45b0eF5e15905c6161](https://arbiscan.io/token/0xdb94c55185f0bb562812de45b0ef5e15905c6161)
 
-Symbol : EMA
-Total Supply : 777,000,000EMA
-Chain : Arbitrum 
-
+Symbol : EMA  
+Total Supply : 777,000,000EMA  
+Chain : Arbitrum  
+  
 [![Watch the video](https://emadata.io/wp-content/uploads/2024/10/E51D9D9D-5B8E-4068-922A-A42F18CC91FB-1-e1729795008631.png)](https://youtu.be/Di76a5pUKFM)
 
 
