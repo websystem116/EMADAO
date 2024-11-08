@@ -18,6 +18,7 @@ You can check out [the Azuro GitHub repositories](https://github.com/Azuro-proto
 
 ## EMADATA
 [EMA](https://emadata.io/) is a front-end mechanism that provides dapps to users and distributes them through [EMADAO](https://emadao.net/)
-//![Alt text](https://emadata.io/wp-content/uploads/2024/10/E51D9D9D-5B8E-4068-922A-A42F18CC91FB-1-e1729795008631.png)
+
+![Alt text](https://youtu.be/Di76a5pUKFM)
 
 
