@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.6",
+    "hardhat-arbitrum": "^0.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
