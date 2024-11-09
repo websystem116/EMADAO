@@ -19,12 +19,24 @@ You can check out [the Azuro GitHub repositories](https://github.com/Azuro-proto
 ## EMADATA
 [EMA](https://emadata.io/) is a front-end mechanism that provides dapps to users and distributes them through [EMADAO](https://emadao.net/)
 
-EMADATA Token Smart Contract Address [0xdb94c55185F0BB562812De45b0eF5e15905c6161](https://arbiscan.io/token/0xdb94c55185f0bb562812de45b0ef5e15905c6161)
+EMADATA Token Smart Contract Address [0x61b397ade3ed9c1511abff20a3a4701a3a52ecdc](https://arbiscan.io/token/0x61b397ade3ed9c1511abff20a3a4701a3a52ecdc)
 
 Symbol : EMA  
 Total Supply : 777,000,000EMA  
 Chain : Arbitrum  
+Token information
+- [smart contract address](https://arbiscan.io/address/0x61b397ade3ed9c1511abff20a3a4701a3a52ecdc#code)  
   
-[![Watch the video](https://emadata.io/wp-content/uploads/2024/10/E51D9D9D-5B8E-4068-922A-A42F18CC91FB-1-e1729795008631.png)](https://youtu.be/Di76a5pUKFM)
+- [token address](https://arbiscan.io/token/0x61b397ade3ed9c1511abff20a3a4701a3a52ecdc)  
+  
+- [uniswap v3 pool](https://app.uniswap.org/explore/tokens/arbitrum/0x61b397ade3ed9c1511abff20a3a4701a3a52ecdc)  
+
+- [coinmarketcap](https://www.dextools.io/app/en/arbitrum/pair-explorer/0x00a9dee46d3a08f2fd7f1f72f329a428e78009b5)  
+  
+- [geckoterminal](https://www.geckoterminal.com/arbitrum/pools/0x00a9dee46d3a08f2fd7f1f72f329a428e78009b5)  
+  
+- [dextool](https://coinmarketcap.com/dexscan/arbitrum/0x00a9dee46d3a08f2fd7f1f72f329a428e78009b5)  
+
+- [Youtube](https://youtu.be/Di76a5pUKFM)
 
 

@@ -1,8 +1,8 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-const SEPOLIA_TESTNET_PRIVATE_KEY = '';
-const ARBITRUM_MAINNET_TEMPORARY_PRIVATE_KEY = '';
-const ARBITRUM_MAINNET_TEMPORARY_API_KEY = '';
+const SEPOLIA_TESTNET_PRIVATE_KEY = 'your_wallet_private_key';
+const ARBITRUM_MAINNET_TEMPORARY_PRIVATE_KEY = 'your_wallet_private_key';
+const ARBITRUM_MAINNET_TEMPORARY_API_KEY = 'arbitrum_api_key';
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
